@@ -7,7 +7,7 @@
     <img src="pics/working_grasper.png" alt="Working Grasper" height="300">
   </a>
 
-<h2 align="center">HackaHealth 2023 - Robotic Arm Prototype</h2>
+<h2 align="center">HackaHealth 2023 - Robotic Grasper Prototype</h2>
 
   <p align="center">
     A collaborative robotics project designed to empower independence.
